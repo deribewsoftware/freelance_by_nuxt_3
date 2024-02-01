@@ -1,5 +1,5 @@
 <template>
-  <header class="flex justify-around border-b-[1px] border-gray-200 dark:border-gray-700 ">
+  <header class="fixed w-full flex items-center justify-around border-b-[1px] border-gray-200 dark:border-gray-700 h-12  z-50 bg-slate-50 dark:bg-slate-900">
     <div class="">Nuxt Ui</div>
     <div class="">Nuxt Ui</div>
     <div class="">Nuxt Ui</div>
